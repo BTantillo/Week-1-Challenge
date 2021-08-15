@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-
+/* Header /Nav bar styles start*/
 
 header {
     padding: 20px;
@@ -43,6 +43,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Header / Nav bar styles to end*/ 
 a {
     color: #ffffff;
     text-decoration: none;
@@ -52,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/*Hero styles start */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,7 +62,10 @@ p {
     background-size: cover;
     background-position: center;
 }
+/*Hero styles ends */
 
+
+/* Content styles start */
 .content {
     width: 75%;
     display: inline-block;
@@ -98,6 +103,9 @@ p {
     font-size: 36px;
 }
 
+/* Content styles end */
+
+/* Benefit styles start */
 
 .benefits {
     margin-right: 20px;
@@ -133,7 +141,9 @@ p {
     max-width: 150px;
 } 
 
+/* Benefit styles end */
 
+/*Footer style start */
 footer {
     padding: 30px;
     clear: both;
@@ -144,3 +154,5 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/*Footer style end */
