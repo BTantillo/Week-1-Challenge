@@ -43,7 +43,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* Header / Nav bar styles to end*/ 
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -52,6 +52,8 @@ a {
 p {
     font-size: 16px;
 }
+/* Header / Nav bar styles to end*/ 
+
 
 /*Hero styles start */
 .hero {
