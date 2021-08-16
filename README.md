@@ -11,5 +11,9 @@ Week 1 Challenge was to assist a company in tidying up their website code
 
 https://btantillo.github.io/Week-1-Challenge/
 
+## Snapshot
+
+
+
 ## Contribution
 Made with ❤️ by Ben Tantillo
